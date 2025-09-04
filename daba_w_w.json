@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "daa baa",
+  "wake_word": "daba",
   "author": "Leuzly",
   "website": "https://github.com/Leuzly/Models.git",
-  "model": "daa_baa.tflite",
+  "model": "daba.tflite",
   "trained_languages": [
     "fr"
   ],
