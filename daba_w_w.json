@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "daba",
   "author": "Leuzly",
-  "website": "https://github.com/Leuzly/Models.git",
+  "website": "https://github.com/Leuzly/Models",
   "model": "daba.tflite",
   "trained_languages": [
     "en"
