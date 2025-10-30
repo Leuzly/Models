@@ -5,14 +5,14 @@
   "website": "https://github.com/Leuzly/Models.git",
   "model": "daba.tflite",
   "trained_languages": [
-    "fr"
+    "en"
   ],
   "version": 2,
   "micro": {
-    "probability_cutoff": 0.85,
+    "probability_cutoff": 0.66,
     "feature_step_size": 10,
-    "sliding_window_size": 5,
-    "tensor_arena_size": 37000,
+    "sliding_window_size": 10,
+    "tensor_arena_size": 25544,
     "minimum_esphome_version": "2024.7.0"
   }
 }
